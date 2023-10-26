@@ -3,6 +3,10 @@
 ###### 26-10-2023
 ---
 - How does sniffing work?
-	- Promiscuous mode or port forwarding to sniff other computers
+	- Promiscuous mode or port forwarding to sniff other computers traffic
+	- Not going to see traffic your network doesnt see
+- Know what normal traffic is like. Set up a baseline
+- Find malicious traffic, troubleshooting, malware and forensic analysis
 - Baseline
-	- 
+	- Use statistics tab on your file to see how your traffic is split up
+		- conversations and endpoints
