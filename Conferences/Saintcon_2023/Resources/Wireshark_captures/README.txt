@@ -1,0 +1,3 @@
+Use of theses capture files outside of the SaintCon2016 Wireshark Training is allowed under the following conditions:
+1) This README file must be included with the capture files. This includes any derived files (i.e. if you export packets or objects from the file, these files must also include this README file)
+2) Send me an email at kylefeuz@weber.edu describing how the capture files are being used.  You do not need to receive a response from me to use the files, I just want to track their usage. Use the subject of SaintCon 2016 Wireshark Captures
