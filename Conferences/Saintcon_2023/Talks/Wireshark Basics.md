@@ -13,3 +13,5 @@
 - How to sniff
 	- Decrypting traffic (ssl_* files)
 		- Edit -> preferences -> TLS
+- General Capturing
+	- Capture filters limit what you 
