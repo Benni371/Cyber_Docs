@@ -10,3 +10,5 @@
 - Baseline
 	- Use statistics tab on your file to see how your traffic is split up
 		- conversations and endpoints
+- How to sniff
+	- 
