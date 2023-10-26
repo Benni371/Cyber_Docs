@@ -18,3 +18,9 @@
 		- PGAudit Extension
 			- detailed session object logging
 			- logs for compliance
+	- Backups
+		- Restore and Recovery
+		- Dumps are not backups
+		- When fit hits the shan
+		- pgBackRest
+			- encryption
