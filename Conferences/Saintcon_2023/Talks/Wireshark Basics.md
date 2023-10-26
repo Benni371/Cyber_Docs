@@ -4,7 +4,7 @@
 ---
 - How does sniffing work?
 	- Promiscuous mode or port forwarding to sniff other computers traffic
-	- Not going to see traffic your network doesnt see
+	- Not going to see traffic your network doesn't see
 - Know what normal traffic is like. Set up a baseline
 - Find malicious traffic, troubleshooting, malware and forensic analysis
 - Baseline
@@ -18,5 +18,6 @@
 		- Use case is for very specific use cases when you want to capture traffic
 	- Display filter is using port numbers so be wary if services are on uncommon ports
 		- to capture all ssh, Preferences -> Protocols -> \[Protocol\] -> change ports
-	- Filter buttons
+	- Filter
 		- Hit plus button at the end and give it a label
+		- Right clicking the fields to help prepare filter
