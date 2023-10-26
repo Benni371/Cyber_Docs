@@ -13,7 +13,7 @@
 - How to sniff
 	- Decrypting traffic (ssl_* files)
 		- Edit -> preferences -> TLS
-- General Capturing
+- General Capturing & Filtering
 	- Capture filters limit what you get obviously. You lose some data that you may need. If you filter out at this level you can miss it.
 		- Use case is for very specific use cases when you want to capture traffic
 	- Display filter is using port numbers so be wary if services are on uncommon ports
@@ -21,3 +21,4 @@
 	- Filter
 		- Hit plus button at the end and give it a label
 		- Right clicking the fields to help prepare filter
+	- Coloring Rules
