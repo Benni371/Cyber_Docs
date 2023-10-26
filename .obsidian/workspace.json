@@ -97,8 +97,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c60cbdb56996749f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,12 +171,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9823625059c4b78c",
+  "active": "cbd6592862720f92",
   "lastOpenFiles": [
     "Conferences/Saintcon_2023/Talks",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_weber_key",
