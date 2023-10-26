@@ -11,4 +11,5 @@
 	- Use statistics tab on your file to see how your traffic is split up
 		- conversations and endpoints
 - How to sniff
-	- 
+	- Decrypting traffic (ssl_* files)
+		- Edit -> preferences -> TLS
