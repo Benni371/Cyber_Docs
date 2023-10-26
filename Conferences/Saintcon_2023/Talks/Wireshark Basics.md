@@ -14,4 +14,5 @@
 	- Decrypting traffic (ssl_* files)
 		- Edit -> preferences -> TLS
 - General Capturing
-	- Capture filters limit what you 
+	- Capture filters limit what you get obviously. You lose some data that you may need. If you filter out at this level you can miss it.
+		- Use case is for very specific use cases when you want to capture traffic
