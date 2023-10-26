@@ -17,3 +17,10 @@
 	- Data Privacy
 		- Model poisoning from out
 - The Missing Element
+	- Humans
+		- Bridge gap between the AI models and how we model threat data
+		- Be more involved
+- Case Studies 
+	- Summaries
+		- Provide good summaries for non-technical readers
+	- Extraction
