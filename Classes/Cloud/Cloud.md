@@ -6,6 +6,12 @@
 - API-driven 
 - Regions contain availability zones usually 3 or 4. 
 	- availability zones are data centers and provide redundancy for most AWS products
-## IAM
+- More expensive?
+	- it does cost more BUT you dont have to buy it, track lifecycle, interact with the hardware
+## Products
+### IAM
 - An account is boundary for any resource or user. A user in one account will not exist in another account.
 - AWS organizations allows for one account to govern all other accounts
+
+### EC2
+- How 
