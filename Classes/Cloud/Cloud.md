@@ -5,4 +5,7 @@
 - Scaling is key to why the cloud is useful
 - API-driven 
 - Regions contain availability zones usually 3 or 4. 
-	- availability zones are 
+	- availability zones are data centers and provide redundancy for most AWS products
+## IAM
+- An account is boundary for any resource or user. A user in one account will not exist in another account.
+- AWS organizations allows for one account to govern all other accounts
