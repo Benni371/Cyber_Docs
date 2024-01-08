@@ -14,4 +14,4 @@
 - AWS organizations allows for one account to govern all other accounts
 
 ### EC2
-- How 
+- 
