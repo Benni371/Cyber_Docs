@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/Knowledge Checks/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "faa1314e163ad77f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/Knowledge Checks/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/Knowledge Checks/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md"
+                "file": "Classes/Cloud/Knowledge Checks/Main.md"
               }
             }
           },
@@ -167,8 +166,11 @@
   },
   "active": "9823625059c4b78c",
   "lastOpenFiles": [
-    "Conferences/Saintcon_2023/Talks/Securing PostgreSQL.md",
+    "Pasted image 20240108164617.png",
     "Classes/Cloud/Cloud Economics and Billing.md",
+    "Classes/Cloud/Knowledge Checks/Main.md",
+    "Classes/Cloud/Knowledge Checks",
+    "Conferences/Saintcon_2023/Talks/Securing PostgreSQL.md",
     "Classes/Cloud",
     "Classes",
     "Conferences/Saintcon_2023/Talks/Wireshark Basics.md",
@@ -182,7 +184,6 @@
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_saintcon_keys",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_saintcon.pcapng",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/nmap_default_baseline.pcapng",
-    "Conferences/Saintcon_2023/Resources/Wireshark_captures/nmap_default.pcapng",
     "Untitled.canvas"
   ]
 }
