@@ -9,7 +9,11 @@
 - More expensive?
 	- it does cost more BUT you dont have to buy it, track lifecycle, interact with the hardware
 - Software is more flexible and can change more quickly, easily and cost-effectively
-- 
+- capital cost vs variable cost
+	- capital is you pay no matter what (traditional DC) 
+	- variable is you can adjust for what you actually use
+- Stop guessing capacity needs. No overestimating server capacity and scaling is quick and easy
+- Go global in minutes
 ## Products
 ### IAM
 - An account is boundary for any resource or user. A user in one account will not exist in another account.
