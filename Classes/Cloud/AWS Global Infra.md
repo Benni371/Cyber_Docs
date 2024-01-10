@@ -4,5 +4,6 @@
 - AWS region is a geographical area
 	- data replication across regions is controlled by you
 	- Communication between regions uses aws backbone network infrastructure
-- Each region provides full redundancy and connectivity to the network
-- 
+	- Each region provides full redundancy and connectivity to the network
+	- Each region has multiple availability zones which usually have 3 data centers in them.
+- Amazon Cloudfront is a CDN
