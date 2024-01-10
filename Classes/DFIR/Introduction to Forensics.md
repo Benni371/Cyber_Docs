@@ -21,3 +21,5 @@
 - you must provide a paper trail
 	- need to know original condition and location of the evidence
 	- evidence from digital image is circumstantial but that does not make it weak or worthless
+### ECPA (Electronic Communications Privacy Act and Stored Wire Electronic Communications Act)
+- 
