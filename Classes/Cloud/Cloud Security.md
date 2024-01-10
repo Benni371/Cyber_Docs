@@ -37,6 +37,10 @@
 			- password, user name and account ID, mfa (optional)
 	- a group is a collection of users that are granted identical authorization
 	- a policy is a document that defines which resources can be accessed and the level of access to each resource
+		- identity based policy
+			- attach to any IAM entity
+			- deny statements always win
 	- a role is a mechanism to grant a set of permissions for making aws service requests. Similar to using `sudo`
 - Authorization
 	- all permissions are implicitly denied by default
+	- looks first for permission explicitly denied
