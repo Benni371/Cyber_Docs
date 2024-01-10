@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0a0f0126b0002f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Cloud/AWS Global Infra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/AWS Global Infra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/AWS Global Infra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md"
+                "file": "Classes/Cloud/AWS Global Infra.md"
               }
             }
           },
@@ -164,8 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7edb5991a350190",
+  "active": "c0a0f0126b0002f8",
   "lastOpenFiles": [
+    "Classes/Cloud/Cloud Economics and Billing.md",
+    "Classes/Cloud/AWS Global Infra.md",
     "Classes/DFIR/Introduction to Forensics.md",
     "New Text Document.txt",
     "Templates/Teacher.md",
@@ -173,7 +188,6 @@
     "Classes/Cloud/Knowledge Checks/Main.md",
     "Classes/DFIR",
     "Pasted image 20240108164617.png",
-    "Classes/Cloud/Cloud Economics and Billing.md",
     "Classes/Cloud/Knowledge Checks",
     "Conferences/Saintcon_2023/Talks/Securing PostgreSQL.md",
     "Classes/Cloud",
