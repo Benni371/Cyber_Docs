@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/DFIR/1-9.md",
+                "file": "Classes/DFIR/Introduction to Forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/DFIR/1-9.md",
+                "file": "Classes/DFIR/Introduction to Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/DFIR/1-9.md",
+                "file": "Classes/DFIR/Introduction to Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/DFIR/1-9.md"
+                "file": "Classes/DFIR/Introduction to Forensics.md"
               }
             }
           },
@@ -168,7 +168,7 @@
   "lastOpenFiles": [
     "Templates/Teacher.md",
     "Templates/Speaker.md",
-    "Classes/DFIR/1-9.md",
+    "Classes/DFIR/Introduction to Forensics.md",
     "Classes/Cloud/Knowledge Checks/Main.md",
     "Classes/DFIR",
     "Pasted image 20240108164617.png",
