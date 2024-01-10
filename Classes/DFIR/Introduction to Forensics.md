@@ -10,6 +10,7 @@
 		- AntiSiphon Classes
 	- Volatility has a book for memory forensics
 ## Intro
-- ability to prove something to the court of people
-- gather, analyze, and understanding the evidence
-- Even if not presented in court it is the best way to handle it anyway.
+- forensics is the ability to prove something to the court of people
+- learn how to gather, analyze, and understanding the evidence
+- Even if not presented in court it is the best way to handle it anyway
+- 
