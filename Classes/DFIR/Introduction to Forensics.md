@@ -24,4 +24,4 @@
 ### ECPA (Electronic Communications Privacy Act and Stored Wire Electronic Communications Act)
 - Wire, oral, and electronic are being made, are in transit and when they are stored
 - This law is the one that is most used to prosecute hacking and related cases
-- investigation is subject to the warrant
+- investigation is subject to the warrant. You cannot pretend to go looking for X and go and find Y. You can find Y if you happen on in and can prove how you found it while finding X
