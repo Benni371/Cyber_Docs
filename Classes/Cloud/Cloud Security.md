@@ -44,3 +44,8 @@
 - Authorization
 	- all permissions are implicitly denied by default
 	- looks first for permission explicitly denied
+### Securing a New AWS Account
+- do not use rot user. create a privileged user
+- enable mfa for root
+- create a group for admin acccess
+- remove root account access keys
