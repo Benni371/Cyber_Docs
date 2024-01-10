@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/Knowledge Checks/Main.md",
+                "file": "Templates/Speaker.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/Knowledge Checks/Main.md",
+                "file": "Templates/Speaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/Knowledge Checks/Main.md",
+                "file": "Templates/Speaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/Knowledge Checks/Main.md"
+                "file": "Templates/Speaker.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "9823625059c4b78c",
   "lastOpenFiles": [
+    "Classes/DFIR/1-9.md",
+    "Classes/Cloud/Knowledge Checks/Main.md",
+    "Classes/DFIR",
     "Pasted image 20240108164617.png",
     "Classes/Cloud/Cloud Economics and Billing.md",
-    "Classes/Cloud/Knowledge Checks/Main.md",
     "Classes/Cloud/Knowledge Checks",
     "Conferences/Saintcon_2023/Talks/Securing PostgreSQL.md",
     "Classes/Cloud",
@@ -183,7 +185,6 @@
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_weber.pcapng",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_saintcon_keys",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_saintcon.pcapng",
-    "Conferences/Saintcon_2023/Resources/Wireshark_captures/nmap_default_baseline.pcapng",
     "Untitled.canvas"
   ]
 }
