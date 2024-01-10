@@ -22,4 +22,6 @@
 	- need to know original condition and location of the evidence
 	- evidence from digital image is circumstantial but that does not make it weak or worthless
 ### ECPA (Electronic Communications Privacy Act and Stored Wire Electronic Communications Act)
-- 
+- Wire, oral, and electronic are being made, are in transit and when they are stored
+- This law is the one that is most used to prosecute hacking and related cases
+- investigation is subject to the warrant
