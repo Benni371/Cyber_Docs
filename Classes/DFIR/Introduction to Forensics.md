@@ -20,4 +20,4 @@
 ### Chain of Custody
 - you must provide a paper trail
 	- need to know original condition and location of the evidence
-	- evidence from 
+	- evidence from digital image is circumstantial but that does not make it weak or worthless
