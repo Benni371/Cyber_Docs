@@ -21,3 +21,4 @@
 ## Pricing
 - Compute, Storage, and Data Transfer
 - Pay less by using more
+- Reserved Instances are available in AURI, NURI
