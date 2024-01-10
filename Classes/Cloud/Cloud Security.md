@@ -24,4 +24,19 @@
 	- Network conf and account management
 	- Customer is in control of their data
 ### AWS IAM
-- used to manage 
+- used to manage access to aws resources
+	- **Who** can access the resource
+	- **Which** resources can be accessed and what can the user do to the resource
+	- **How** resources can be accessed
+- Components
+	- a person or app can auth with an aws account
+		- Programmatic access
+			- access key ID
+			- secret access key
+		- AWS Console
+			- password, user name and account ID, mfa (optional)
+	- a group is a collection of users that are granted identical authorization
+	- a policy is a document that defines which resources can be accessed and the level of access to each resource
+	- a role is a mechanism to grant a set of permissions for making aws service requests. Similar to using `sudo`
+- Authorization
+	- all permissions are implicitly denied by default
