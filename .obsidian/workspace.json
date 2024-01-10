@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/Cloud Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/Cloud Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md",
+                "file": "Classes/Cloud/Cloud Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/Cloud Economics and Billing.md"
+                "file": "Classes/Cloud/Cloud Security.md"
               }
             }
           },
@@ -166,14 +166,15 @@
   },
   "active": "d7edb5991a350190",
   "lastOpenFiles": [
-    "Classes/Cloud/AWS Global Infra.md",
-    "Classes/DFIR/Introduction to Forensics.md",
     "Templates/Teacher.md",
     "Templates/Speaker.md",
+    "Classes/Cloud/Cloud Security.md",
+    "Classes/Cloud/Cloud Economics and Billing.md",
+    "Classes/Cloud/AWS Global Infra.md",
+    "Classes/DFIR/Introduction to Forensics.md",
     "Classes/Cloud/Knowledge Checks/Main.md",
     "Classes/DFIR",
     "Pasted image 20240108164617.png",
-    "Classes/Cloud/Cloud Economics and Billing.md",
     "Classes/Cloud/Knowledge Checks",
     "Conferences/Saintcon_2023/Talks/Securing PostgreSQL.md",
     "Classes/Cloud",
