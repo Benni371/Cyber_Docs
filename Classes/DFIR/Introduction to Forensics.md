@@ -10,7 +10,14 @@
 		- AntiSiphon Classes
 	- Volatility has a book for memory forensics
 ## Intro
+### General
 - Forensics is the ability to prove something to the court of people
 - Learn how to gather, analyze, and understanding the evidence
 - Even if not presented in court it is the best way to handle it anyway
-- When handling evidence ther
+- When handling evidence there are really only 2 times where you might alter evidence
+	- grabbing ram
+	- doing anything quickly because it is exigent due to something like a terrorist attack
+### Chain of Custody
+- you must provide a paper trail
+	- need to know original condition and location of the evidence
+	- evidence from 
