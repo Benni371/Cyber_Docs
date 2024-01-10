@@ -18,6 +18,6 @@
 ### IAM
 - An account is boundary for any resource or user. A user in one account will not exist in another account.
 - AWS organizations allows for one account to govern all other accounts
-
-### EC2
-- 
+## Pricing
+- Compute, Storage, and Data Transfer
+- Pay less by using more
