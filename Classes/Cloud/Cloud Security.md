@@ -7,4 +7,5 @@
 - Roles
 	- permission policy
 	- should use these wherever possible
+- All aws api's have tls 1.2 enabled on them so they are already encrypted
 ## Cloud Security
