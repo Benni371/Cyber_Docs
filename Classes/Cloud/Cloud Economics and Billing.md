@@ -21,4 +21,6 @@
 ## Pricing
 - Compute, Storage, and Data Transfer
 - Pay less by using more
-- Reserved Instances are available in AURI, NURI
+- Reserved Instances are available in AURI, NURI, and PURI
+	- to receive the discounted rate associated with reserved instances, you do not need to make a full, upfront payment
+- The four support plans offered by aws support are basic, developer, business, and enterprise
