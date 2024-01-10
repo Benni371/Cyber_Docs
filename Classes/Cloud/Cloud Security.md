@@ -49,3 +49,4 @@
 - enable mfa for root
 - create a group for admin acccess
 - remove root account access keys
+### Securing Accounts
