@@ -50,3 +50,6 @@
 - create a group for admin acccess
 - remove root account access keys
 ### Securing Accounts
+- AWS Shield - DDoS protection service
+### Securing Data
+- With AWS KMS encryption and decryption are automatic
