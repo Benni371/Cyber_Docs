@@ -4,4 +4,6 @@
 ## General
 - Good certs for forensics 
 	- GIAC GCFA, GCFE, EnCASE cert
+- NSRL (National Software Reference List)
+	- list of known good software hashes
 ## RAM Forensics
