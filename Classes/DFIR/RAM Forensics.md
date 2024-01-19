@@ -17,3 +17,5 @@
 - RAM is critical for detecting malware
 - Volatility commands
 	- Malfind helps find hidden or injected code/DLLs in user mode memory
+	- ProcDump dumps a process to executable
+	- cmdscan plugin searches memory of csrss.exe and conhost.exe
