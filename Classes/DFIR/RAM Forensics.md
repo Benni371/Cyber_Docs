@@ -16,4 +16,4 @@
 - Knowing what things were running during the time of the arrest is very critical
 - RAM is critical for detecting malware
 - Volatility commands
-	- Shellbags
+	- Malfind helps find hidden or injected code/DLLs in user mode memory
