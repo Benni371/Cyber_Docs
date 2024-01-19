@@ -15,3 +15,5 @@
 		- **the encryption keys are in the RAM!!!!!**
 - Knowing what things were running during the time of the arrest is very critical
 - RAM is critical for detecting malware
+- Volatility commands
+	- Shellbags
