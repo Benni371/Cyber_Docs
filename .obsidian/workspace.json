@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md",
+                "file": "Classes/Cloud/4. VPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "faa1314e163ad77f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md",
+                "file": "Classes/Cloud/4. VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md",
+                "file": "Classes/Cloud/4. VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md"
+                "file": "Classes/Cloud/4. VPC.md"
               }
             }
           },
@@ -166,8 +167,8 @@
   },
   "active": "24600bb06d4d1d50",
   "lastOpenFiles": [
-    "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/5. Compute.md",
+    "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/3. Cloud Security.md",
     "Classes/Cloud/2. Cloud Economics and Billing.md",
     "Classes/DFIR/RAM Forensics.md",
