@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/DFIR/RAM Forensics.md",
+                "file": "Classes/Cloud/5. Compute.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/DFIR/RAM Forensics.md",
+                "file": "Classes/Cloud/5. Compute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/DFIR/RAM Forensics.md",
+                "file": "Classes/Cloud/5. Compute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/DFIR/RAM Forensics.md"
+                "file": "Classes/Cloud/5. Compute.md"
               }
             }
           },
@@ -166,13 +166,14 @@
   },
   "active": "24600bb06d4d1d50",
   "lastOpenFiles": [
-    "Classes/DFIR/Introduction to Forensics.md",
+    "Classes/Cloud/3. Cloud Security.md",
+    "Classes/Cloud/2. Cloud Economics and Billing.md",
+    "Classes/Cloud/5. Compute.md",
     "Classes/DFIR/RAM Forensics.md",
-    "Classes/Cloud/Cloud Security.md",
+    "Classes/DFIR/Introduction to Forensics.md",
     "Templates/Teacher.md",
     "Templates/Speaker.md",
-    "Classes/Cloud/Cloud Economics and Billing.md",
-    "Classes/Cloud/AWS Global Infra.md",
+    "Classes/Cloud/1. AWS Global Infra.md",
     "Classes/Cloud/Knowledge Checks/Main.md",
     "Classes/DFIR",
     "Pasted image 20240108164617.png",
