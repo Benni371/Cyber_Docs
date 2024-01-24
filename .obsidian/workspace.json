@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/DFIR/3. Creating Forensic Image.md",
+                "file": "Classes/Cloud/6. EBS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/DFIR/3. Creating Forensic Image.md",
+                "file": "Classes/Cloud/6. EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/DFIR/3. Creating Forensic Image.md",
+                "file": "Classes/Cloud/6. EBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/DFIR/3. Creating Forensic Image.md"
+                "file": "Classes/Cloud/6. EBS.md"
               }
             }
           },
@@ -164,12 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9823625059c4b78c",
+  "active": "24600bb06d4d1d50",
   "lastOpenFiles": [
+    "Classes/DFIR/3. Creating Forensic Image.md",
+    "Classes/Cloud/6. EBS.md",
     "Classes/DFIR/2. RAM Forensics.md",
     "Classes/DFIR/1. Introduction to Forensics.md",
     "Classes/DFIR/Untitled.md",
-    "Classes/DFIR/3. Creating Forensic Image.md",
     "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/5. Compute.md",
     "Classes/Cloud/3. Cloud Security.md",
