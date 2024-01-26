@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md",
+                "file": "Classes/Cloud/6. EBS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md",
+                "file": "Classes/Cloud/6. EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md",
+                "file": "Classes/Cloud/6. EBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/5. Compute.md"
+                "file": "Classes/Cloud/6. EBS.md"
               }
             }
           },
@@ -166,8 +166,10 @@
   },
   "active": "c0a0f0126b0002f8",
   "lastOpenFiles": [
-    "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/5. Compute.md",
+    "Classes/Cloud/4. VPC.md",
+    "Classes/Cloud/2. Cloud Economics and Billing.md",
+    "Classes/Cloud/1. AWS Global Infra.md",
     "Classes/Cloud/6. EBS.md",
     "Classes/DFIR/1. Introduction to Forensics.md",
     "Classes/DFIR/2. RAM Forensics.md",
@@ -177,8 +179,6 @@
     "Classes/DFIR/Labs/Lab1.md",
     "Classes/DFIR/Labs",
     "Classes/Cloud/3. Cloud Security.md",
-    "Classes/Cloud/2. Cloud Economics and Billing.md",
-    "Classes/Cloud/1. AWS Global Infra.md",
     "Classes/Cloud/Cloud Economics and Billing.md",
     "Classes/Cloud/AWS Global Infra.md",
     "Classes/DFIR/Introduction to Forensics.md",
