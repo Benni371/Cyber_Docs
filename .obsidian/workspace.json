@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/Cloud/7. Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/Cloud/7. Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/Cloud/7. Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md"
+                "file": "Classes/Cloud/7. Databases.md"
               }
             }
           },
@@ -166,11 +166,12 @@
   },
   "active": "c0a0f0126b0002f8",
   "lastOpenFiles": [
+    "Classes/Cloud/6. EBS.md",
+    "Classes/Cloud/7. Databases.md",
     "Classes/Cloud/5. Compute.md",
     "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/2. Cloud Economics and Billing.md",
     "Classes/Cloud/1. AWS Global Infra.md",
-    "Classes/Cloud/6. EBS.md",
     "Classes/DFIR/1. Introduction to Forensics.md",
     "Classes/DFIR/2. RAM Forensics.md",
     "Classes/DFIR/3. Creating Forensic Image.md",
