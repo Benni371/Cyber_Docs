@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74c5c46462f6db3e",
+        "id": "5b983bc57db86cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a0f0126b0002f8",
+            "id": "24600bb06d4d1d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/DFIR/5. Using the Registry.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/DFIR/5. Using the Registry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/DFIR/5. Using the Registry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md"
+                "file": "Classes/DFIR/5. Using the Registry.md"
               }
             }
           },
@@ -164,30 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0a0f0126b0002f8",
+  "active": "24600bb06d4d1d50",
   "lastOpenFiles": [
+    "Classes/DFIR/Labs/Lab1.md",
+    "Classes/DFIR/5. Using the Registry.md",
     "Classes/Cloud/9. Auto Scaling and Monitoring.md",
     "Classes/Cloud/8. Cloud Architecture.md",
     "Classes/Cloud/7. Databases.md",
-    "Classes/Cloud/6. EBS.md",
-    "Classes/Cloud/5. Compute.md",
-    "Classes/Cloud/4. VPC.md",
-    "Classes/Cloud/2. Cloud Economics and Billing.md",
-    "Classes/Cloud/1. AWS Global Infra.md",
-    "Classes/DFIR/1. Introduction to Forensics.md",
-    "Classes/DFIR/2. RAM Forensics.md",
-    "Classes/DFIR/3. Creating Forensic Image.md",
     "Classes/DFIR/4. Images and Harddrives.md",
-    "Classes/Cloud/Cloud Security.md",
-    "Classes/DFIR/Labs/Lab1.md",
+    "Classes/DFIR/3. Creating Forensic Image.md",
     "Classes/DFIR/Labs",
+    "Classes/Cloud/6. EBS.md",
+    "Classes/DFIR/2. RAM Forensics.md",
+    "Classes/DFIR/1. Introduction to Forensics.md",
+    "Classes/Cloud/4. VPC.md",
+    "Classes/Cloud/5. Compute.md",
     "Classes/Cloud/3. Cloud Security.md",
-    "Classes/Cloud/Cloud Economics and Billing.md",
-    "Classes/Cloud/AWS Global Infra.md",
-    "Classes/DFIR/Introduction to Forensics.md",
-    "New Text Document.txt",
+    "Classes/Cloud/2. Cloud Economics and Billing.md",
     "Templates/Teacher.md",
     "Templates/Speaker.md",
+    "Classes/Cloud/1. AWS Global Infra.md",
     "Classes/Cloud/Knowledge Checks/Main.md",
     "Classes/DFIR",
     "Pasted image 20240108164617.png",
@@ -202,6 +198,7 @@
     "Conferences/Saintcon_2023/Talks",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_weber_key",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_weber.pcapng",
+    "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_saintcon_keys",
     "Untitled.canvas"
   ]
 }
