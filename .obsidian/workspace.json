@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/Cloud/10. S3-Adding a Storage Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/Cloud/10. S3-Adding a Storage Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md",
+                "file": "Classes/Cloud/10. S3-Adding a Storage Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Cloud/6. EBS.md"
+                "file": "Classes/Cloud/10. S3-Adding a Storage Layer.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "c0a0f0126b0002f8",
   "lastOpenFiles": [
+    "Classes/Cloud/9. Auto Scaling and Monitoring.md",
+    "Classes/Cloud/10. S3-Adding a Storage Layer.md",
+    "Classes/Cloud/6. EBS.md",
     "Classes/DFIR/Untitled.md",
     "Classes/DFIR/5. Using the Registry.md",
-    "Classes/Cloud/9. Auto Scaling and Monitoring.md",
     "Classes/Cloud/8. Cloud Architecture.md",
     "Classes/Cloud/7. Databases.md",
-    "Classes/Cloud/6. EBS.md",
     "Classes/Cloud/5. Compute.md",
     "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/2. Cloud Economics and Billing.md",
@@ -198,7 +199,6 @@
     "Classes/Cloud",
     "Classes",
     "Conferences/Saintcon_2023/Talks/Wireshark Basics.md",
-    "Conferences/Saintcon_2023/Talks/Cyber Intelligence.md",
     "DFIR",
     "Conferences/Saintcon_2023/Talks",
     "Conferences/Saintcon_2023/Resources/Wireshark_captures/ssl_weber_key",
