@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/DFIR/5. Using the Registry.md",
+                "file": "Classes/DFIR/6. Browser Forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/DFIR/5. Using the Registry.md",
+                "file": "Classes/DFIR/6. Browser Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/DFIR/5. Using the Registry.md",
+                "file": "Classes/DFIR/6. Browser Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/DFIR/5. Using the Registry.md"
+                "file": "Classes/DFIR/6. Browser Forensics.md"
               }
             }
           },
@@ -164,21 +164,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24600bb06d4d1d50",
+  "active": "9823625059c4b78c",
   "lastOpenFiles": [
-    "Classes/Cloud/10. S3-Adding a Storage Layer.md",
-    "Classes/DFIR/Untitled.md",
     "Classes/DFIR/5. Using the Registry.md",
+    "Classes/DFIR/4. Images and Harddrives.md",
+    "Classes/DFIR/6. Browser Forensics.md",
+    "Classes/DFIR/3. Creating Forensic Image.md",
+    "Classes/DFIR/2. RAM Forensics.md",
+    "Classes/DFIR/1. Introduction to Forensics.md",
+    "Classes/Cloud/10. S3-Adding a Storage Layer.md",
     "Classes/DFIR/Labs/Lab1.md",
     "Classes/Cloud/9. Auto Scaling and Monitoring.md",
     "Classes/Cloud/8. Cloud Architecture.md",
     "Classes/Cloud/7. Databases.md",
-    "Classes/DFIR/4. Images and Harddrives.md",
-    "Classes/DFIR/3. Creating Forensic Image.md",
     "Classes/DFIR/Labs",
     "Classes/Cloud/6. EBS.md",
-    "Classes/DFIR/2. RAM Forensics.md",
-    "Classes/DFIR/1. Introduction to Forensics.md",
     "Classes/Cloud/4. VPC.md",
     "Classes/Cloud/5. Compute.md",
     "Classes/Cloud/3. Cloud Security.md",
